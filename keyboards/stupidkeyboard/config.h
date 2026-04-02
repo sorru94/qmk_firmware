@@ -1,4 +1,4 @@
 #pragma once
 
-#define MASTER_RIGHT
+#define MASTER_LEFT
 #undef USB_VBUS_PIN
